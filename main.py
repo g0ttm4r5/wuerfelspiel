@@ -2,4 +2,4 @@
 
 import random
 
-print("Nach deinem Würfelwurf lieft folgende Zahl oben: ", random.randint(1,6))
+print("Nach deinem Würfelwurf liegt folgende Zahl oben: ", random.randint(1,6))
